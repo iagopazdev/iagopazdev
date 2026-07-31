@@ -4,7 +4,7 @@
 🎧 Olá me chamo Iago Paz!<br>
 🎓Sou estudante de ADS na CruzeiroEAD - RGM 49617982 <br>
 📍 Osasco-SP<br>
-🚧 Em Transição de Carreira<br> 
+🚧 Em Transição de Carreira ( 🤳 Radioalismo > 🧑‍💻 T.i) <br> 
 📖 Em constante Aprendizado.<br>
 📫[linkedin](https://www.linkedin.com/in/iago-paz-413756418/)
 
@@ -23,8 +23,7 @@
 |IA Generativas | [Certificado](https://hermes.dio.me/certificates/SXGWPXSI.pdf)
 |Python | [Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=13889589&p=xsK26ahcXdUPcMO7juiqOyC9t%252b7Pedvz)
 |GitHub | Em Conclusão
-
 -----
+#### Status #### 
 
-Status
-<img (Captura de tela 2026-07-31 010126.png) width="100px"> 
+![alt text](<Captura de tela 2026-07-31 010126-1.png>) 
