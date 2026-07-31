@@ -4,7 +4,7 @@
 🎧 Olá me chamo Iago Paz!<br>
 🎓Sou estudante de ADS na Unicsul - EAD <br>
 📍 Osasco-SP<br>
-🚧 Em constante desenvolvimento.<br)>
+🚧 Em constante desenvolvimento.<br>
 📫[linkedin](https://www.linkedin.com/in/iago-paz-413756418/)
 
 --------------
