@@ -1,5 +1,5 @@
 ## Bem-vindos 👋
-![Gif nerd no desktop](https://br.pinterest.com/pin/861735709985953706/)
+![Gif nerd no desktop](https://www.pinterest.com/pin/861735709985953706/)
 
 🎧 Olá me chamo Iago Paz!<br>
 🎓Sou estudante de ADS na CruzeiroEAD - RGM 49617982 <br>
