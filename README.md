@@ -4,13 +4,24 @@
 🎧 Olá me chamo Iago Paz!<br>
 🎓Sou estudante de ADS na Unicsul - EAD <br>
 📍 Osasco-SP<br>
-🚧 Em constante desenvolvimento.<br>
+🚧 Em Transição de Carreira
+📖 Em constante Aprendizado.<br>
 📫[linkedin](https://www.linkedin.com/in/iago-paz-413756418/)
 
 --------------
 
 ## Minhas Habilidades
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px">
+
+
+
+-----------------------
+Cursos | Certificados |
+-------| -------------|
 
 
 
