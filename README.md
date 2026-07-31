@@ -26,4 +26,4 @@
 -----
 #### Status #### 
 
-![alt text](<Captura de tela 2026-07-31 010126-1.png>) 
+![Barra de Status](<Captura de tela 2026-07-31 010126-1.png>) 
