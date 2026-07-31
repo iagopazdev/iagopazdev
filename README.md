@@ -1,5 +1,5 @@
-## Bem-vindos meus queridos 👋
-![Gif nerd no desktop](https://www.google.com/imgres?q=gif%20programador%20no%20pc%208%20bits&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F90%2F70%2F32%2F9070324cdfc07c68d60eed0c39e77573.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F861735709985953706%2F&docid=tEXJD4kYGQvsWM&tbnid=2Zsqx9NhDI8tsM&vet=12ahUKEwihv9zigPyVAxX0JrkGHfZAMWAQnPAOegQINBAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwihv9zigPyVAxX0JrkGHfZAMWAQnPAOegQINBAA)
+## Bem-vindos 👋
+![Gif nerd no desktop](https://br.pinterest.com/pin/861735709985953706/)
 
 🎧 Olá me chamo Iago Paz!<br>
 🎓Sou estudante de ADS na CruzeiroEAD - RGM 49617982 <br>
