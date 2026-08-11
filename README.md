@@ -22,7 +22,8 @@
 |Linux Fundamentals | [Certificado](https://hermes.dio.me/certificates/GTMSSSMI.pdf)
 |IA Generativas | [Certificado](https://hermes.dio.me/certificates/SXGWPXSI.pdf)
 |Python | [Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=13889589&p=xsK26ahcXdUPcMO7juiqOyC9t%252b7Pedvz)
-|GitHub | Em Conclusão
+|GitHub | [Certificado](https://hermes.dio.me/certificates/BJCAQPOK.pdf)
+
 -----
 #### Status #### 
 
