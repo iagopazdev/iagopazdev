@@ -4,7 +4,7 @@
 🎧 Olá me chamo Iago Paz!<br>
 🎓Sou estudante de ADS na CruzeiroEAD - RGM 49617982 <br>
 📍 Osasco-SP<br>
-🚧 Em Transição de Carreira ( 🤳 Radioalismo > 🧑‍💻 T.i) <br> 
+🚧 Em Transição de Carreira ( 🤳 Radialismo > 🧑‍💻 T.i) <br> 
 📖 Em constante Aprendizado.<br>
 📫[linkedin](https://www.linkedin.com/in/iago-paz-413756418/)
 
