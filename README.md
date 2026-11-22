@@ -16,11 +16,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="80px" alt="GitHub logo">
 </p>
 
------------------------
-| Courses | Certificates | Completion |
-|---------|--------------|------------|
-| AWS Cloud Foundations | [Certificate](https://hermes.dio.me/certificates/DPDJI2OK.pdf) | November 11 |
-| Linux Fundamentals | [Certificate](https://hermes.dio.me/certificates/GTMSSSMI.pdf) | - |
-| Generative AI | [Certificate](https://hermes.dio.me/certificates/SXGWPXSI.pdf) | - |
-| Python | [Certificate](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=13889589&p=xsK26ahcXdUPcMO7juiqOyC9t%252b7Pedvz) | - |
-| GitHub | [Certificate](https://hermes.dio.me/certificates/BJCAQPOK.pdf) | - |
+## Courses & Certificates
+
+- [AWS Cloud Foundations](https://hermes.dio.me/certificates/DPDJI2OK.pdf) — Completed November 11
+- [Linux Fundamentals](https://hermes.dio.me/certificates/GTMSSSMI.pdf)
+- [Generative AI](https://hermes.dio.me/certificates/SXGWPXSI.pdf)
+- [Python](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=13889589&p=xsK26ahcXdUPcMO7juiqOyC9t%252b7Pedvz)
+- [GitHub](https://hermes.dio.me/certificates/BJCAQPOK.pdf)
