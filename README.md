@@ -17,15 +17,10 @@
 </p>
 
 -----------------------
-| Courses | Certificates | Completion | Duration |
-|---------|--------------|------------|----------|
-| AWS Cloud Foundations | [Certificate](https://hermes.dio.me/certificates/DPDJI2OK.pdf) | November 11 | 48 hours |
-| Linux Fundamentals | [Certificate](https://hermes.dio.me/certificates/GTMSSSMI.pdf) | - | - |
-| Generative AI | [Certificate](https://hermes.dio.me/certificates/SXGWPXSI.pdf) | - | - |
-| Python | [Certificate](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=13889589&p=xsK26ahcXdUPcMO7juiqOyC9t%252b7Pedvz) | - | - |
-| GitHub | [Certificate](https://hermes.dio.me/certificates/BJCAQPOK.pdf) | - | - |
-
------
-#### Status
-
-![Status bar](<Captura de tela 2026-07-31 010126-1.png>)
+| Courses | Certificates | Completion |
+|---------|--------------|------------|
+| AWS Cloud Foundations | [Certificate](https://hermes.dio.me/certificates/DPDJI2OK.pdf) | November 11 |
+| Linux Fundamentals | [Certificate](https://hermes.dio.me/certificates/GTMSSSMI.pdf) | - |
+| Generative AI | [Certificate](https://hermes.dio.me/certificates/SXGWPXSI.pdf) | - |
+| Python | [Certificate](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=13889589&p=xsK26ahcXdUPcMO7juiqOyC9t%252b7Pedvz) | - |
+| GitHub | [Certificate](https://hermes.dio.me/certificates/BJCAQPOK.pdf) | - |
