@@ -2,7 +2,6 @@
 ![Nerd GIF at a desktop](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
 🎧 Hello, my name is Iago Paz!<br>
-🎓 I am studying Systems Analysis and Development at CruzeiroEAD - RGM 49617982.<br>
 📍 Osasco, São Paulo, Brazil.<br>
 🚧 Career transition (🤳 Radio Broadcasting > 🧑‍💻 IT)<br>
 📖 Always learning.<br>
