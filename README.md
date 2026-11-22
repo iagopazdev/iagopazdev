@@ -18,7 +18,7 @@
 
 ## Courses & Certificates
 
-- [AWS Cloud Foundations](https://hermes.dio.me/certificates/DPDJI2OK.pdf) — Completed November 11
+- [AWS Cloud Foundations](https://hermes.dio.me/certificates/DPDJI2OK.pdf) 
 - [Linux Fundamentals](https://hermes.dio.me/certificates/GTMSSSMI.pdf)
 - [Generative AI](https://hermes.dio.me/certificates/SXGWPXSI.pdf)
 - [Python](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=13889589&p=xsK26ahcXdUPcMO7juiqOyC9t%252b7Pedvz)
